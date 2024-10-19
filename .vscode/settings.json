@@ -1,0 +1,27 @@
+{
+	"files.associations": {
+		"__bit_reference": "cpp",
+		"__node_handle": "cpp",
+		"bitset": "cpp",
+		"deque": "cpp",
+		"__memory": "cpp",
+		"limits": "cpp",
+		"locale": "cpp",
+		"optional": "cpp",
+		"ratio": "cpp",
+		"regex": "cpp",
+		"tuple": "cpp",
+		"vector": "cpp",
+		"__locale": "cpp",
+		"iterator": "cpp",
+		"memory_resource": "cpp",
+		"string": "cpp",
+		"initializer_list": "cpp",
+		"ios": "cpp",
+		"iosfwd": "cpp",
+		"istream": "cpp",
+		"new": "cpp",
+		"streambuf": "cpp",
+		"typeinfo": "cpp"
+	}
+}
