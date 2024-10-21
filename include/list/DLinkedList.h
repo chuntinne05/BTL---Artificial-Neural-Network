@@ -499,10 +499,7 @@ bool DLinkedList<T>::removeItem(T item, void (*removeItemData)(T))
       {
         removeItemData(*it);
       }
-      else
-      {
-        it.remove();
-      }
+      it.remove();
       return 1;
     }
     ++it;
